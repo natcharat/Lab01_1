@@ -1,0 +1,118 @@
+.header {
+	color: #26a69a;
+	border: 10px solid #26a69a;
+	padding: 10px;
+	text-align: center;
+}
+
+.container {
+	background-color: #ffffff;
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+}
+
+.container2 {
+	background-color: #ffffff;
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+}
+
+.date {
+	color: #8c9eff;
+	text-align: center;
+	display: inline-block;
+	width: 12%;
+	padding: 7px;
+}
+
+.birthdate {
+	color: #64dd17;
+	text-align: center;
+	display: inline-block;
+	width: 12%;
+	padding: 7px;
+}
+
+.holiday {
+	color: red;
+	text-align: center;
+	display: inline-block;
+	width: 12%;
+	padding: 7px;
+}
+
+.redSUN {
+	color: #d50000;
+	border: 2px solid #d50000;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.yellowMON {
+	color: #ffc107;
+	border: 2px solid #ffc107;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.pinkTUE {
+	color: pink;
+	border: 2px solid pink;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.greenWED {
+	color: #2e7d32;
+	border: 2px solid #2e7d32;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.orangeTHU {
+	color: #ff9800;
+	border: 2px solid #ff9800;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.cyanFRI {
+	color: #00b8d4;
+	border: 2px solid #00b8d4;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+.purpleSAT {
+	color: #6a1b9a;
+	border: 2px solid #6a1b9a;
+	text-align: center;
+	background-color: #ffffff;
+	width: 12%;
+	display: inline-block;
+	padding: 5px;
+}
+
+* {
+	font-family: 'Oswald', sans-serif;
+}
